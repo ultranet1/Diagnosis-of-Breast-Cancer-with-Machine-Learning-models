@@ -1,6 +1,6 @@
 # Diagnosis-of-Breast-Cancer-with-Machine-Learning-models
 This project is like a tradition for upcoming data scientists. It's about Cancer of the breast diagnosis by checking for the correlations in Breast measurements like Area, Perimeter, radius, concave point etc. 
-
+The dataset is from kaggle(breast cancer wilsconsi)
 
 It's a classification problem,so I used models like Logistic regression, SVM, Random forest and K nearest neighbor. I used sklearn library for this...
 
