@@ -6,7 +6,7 @@ It's a classification problem,so I used models like Logistic regression, SVM, Ra
 
 For the EDA part, I used pandas,which shows 50-60% of diagnosis is benign. Also the diagnosis have strong correlation with radius,area, perimeter, concavity and concave point.
 
-The most accurate model is Random forest with accuracy of 96%>
+The accuracy and confusion matrix is used to evaluate the models.
 
 What's the application?
-I think this Model can be used in computer vision to diagnose breast cancer in women. Thank you
+I think this Model can be used in computer vision to diagnose breast cancer in women.
