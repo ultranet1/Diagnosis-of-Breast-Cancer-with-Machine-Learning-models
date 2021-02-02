@@ -10,3 +10,12 @@ The accuracy and confusion matrix is used to evaluate the models.
 
 What's the application?
 I think this Model can be used in computer vision to diagnose breast cancer in women.
+
+
+The web app was built in Python using the following libraries:
+
+streamlit
+pandas
+numpy
+scikit-learn
+pickle
